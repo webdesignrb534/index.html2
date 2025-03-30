@@ -13,7 +13,7 @@ display: flex;
 justify-content: space-around;
 align-items: center;
 min-height: 100vh;
-background-color: #f0f0f0;
+background-color: #f00ff0;
 }
 
 /* Menu styling */
@@ -21,7 +21,7 @@ background-color: #f0f0f0;
 width: 400px;
 height: 550px;
 border-radius: 15px;
-color: white;
+color: black;
 padding: 20px;
 margin: 20px;
 display: flex;
