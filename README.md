@@ -118,7 +118,7 @@ margin-bottom: 10px;
 <li>Steak</li>
 <li>Mashed Potatoes</li>
 <li>Grilled Vegetables</li>
-<li>Red Wine</li>
+<li>Iced Tea</li>
 <li>Chocolate Cake</li>
 </ul>
 </div>
