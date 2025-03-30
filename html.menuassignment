@@ -1,1 +1,128 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Meal Menus</title>
+<style>
+/* Body styling */
+body {
+font-family: 'Arial', sans-serif;
+margin: 0;
+padding: 0;
+display: flex;
+justify-content: space-around;
+align-items: center;
+min-height: 100vh;
+background-color: #f0f0f0;
+}
+
+/* Menu styling */
+.menu {
+width: 400px;
+height: 550px;
+border-radius: 15px;
+color: white;
+padding: 20px;
+margin: 20px;
+display: flex;
+flex-direction: column;
+justify-content: space-between;
+text-align: center;
+box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+/* Breakfast menu background */
+.menu-breakfast {
+background-image: url('![360_F_235510926_C0LHk7FMcakfRhSIeFj5p28hCXyJpjnr](https://github.com/user-attachments/assets/910fcf29-a284-4d30-96a7-bf7bba9c494a)
+');
+background-size: cover;
+background-position: center;
+background-repeat: no-repeat;
+}
+
+/* Lunch menu background */
+.menu-lunch {
+background-image: url('https://via.placeholder.com/400x550?text=Lunch');
+background-size: cover;
+background-position: center;
+background-repeat: no-repeat;
+}
+
+/* Dinner menu background */
+.menu-dinner {
+background-image: url('https://via.placeholder.com/400x550?text=Dinner');
+background-size: cover;
+background-position: center;
+background-repeat: no-repeat;
+}
+
+/* Menu titles */
+h2 {
+font-size: 30px;
+margin-bottom: 15px;
+}
+
+/* List items */
+ul {
+list-style: none;
+padding: 0;
+font-size: 18px;
+}
+
+li {
+margin: 10px 0;
+}
+
+/* Border styles */
+.menu {
+border: 3px solid #fff;
+border-radius: 15px;
+}
+
+/* Add margin to the menu items */
+.menu ul {
+margin-top: 15px;
+margin-bottom: 10px;
+}
+
+</style>
+</head>
+<body>
+
+<div class="menu menu-breakfast">
+<h2>Breakfast</h2>
+<ul>
+<li>Pancakes</li>
+<li>Scrambled Eggs</li>
+<li>Bacon</li>
+<li>Coffee</li>
+<li>Orange Juice</li>
+</ul>
+</div>
+
+<div class="menu menu-lunch">
+<h2>Lunch</h2>
+<ul>
+<li>Grilled Chicken Sandwich</li>
+<li>Caesar Salad</li>
+<li>French Fries</li>
+<li>Iced Tea</li>
+<li>Smoothie</li>
+</ul>
+</div>
+
+<div class="menu menu-dinner">
+<h2>Dinner</h2>
+<ul>
+<li>Steak</li>
+<li>Mashed Potatoes</li>
+<li>Grilled Vegetables</li>
+<li>Red Wine</li>
+<li>Chocolate Cake</li>
+</ul>
+</div>
+
+</body>
+</html>
 
