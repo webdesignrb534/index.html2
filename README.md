@@ -34,7 +34,8 @@ box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
 
 /* Breakfast menu background */
 .menu-breakfast {
-background-image: url('https://via.placeholder.com/400x550?text=Breakfast');
+background-image: url('![360_F_235510926_C0LHk7FMcakfRhSIeFj5p28hCXyJpjnr](https://github.com/user-attachments/assets/910fcf29-a284-4d30-96a7-bf7bba9c494a)
+');
 background-size: cover;
 background-position: center;
 background-repeat: no-repeat;
