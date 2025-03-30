@@ -1,8 +1,3 @@
-
-Reese Brooks <26brooksr@ripon.k12.wi.us>
-9:52 AM (0 minutes ago)
-to me
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
