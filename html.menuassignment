@@ -21,7 +21,7 @@ background-color: #f00ff0;
 width: 400px;
 height: 550px;
 border-radius: 15px;
-color: white;
+color: black;
 padding: 20px;
 margin: 20px;
 display: flex;
@@ -33,8 +33,8 @@ box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
 
 /* Breakfast menu background */
 .menu-breakfast {
-background-image: url('![360_F_235510926_C0LHk7FMcakfRhSIeFj5p28hCXyJpjnr](https://github.com/user-attachments/assets/910fcf29-a284-4d30-96a7-bf7bba9c494a)
-');
+background-image: url(![360_F_235510926_C0LHk7FMcakfRhSIeFj5p28hCXyJpjnr](https://github.com/user-attachments/assets/910fcf29-a284-4d30-96a7-bf7bba9c494a)
+);
 background-size: cover;
 background-position: center;
 background-repeat: no-repeat;
@@ -42,7 +42,7 @@ background-repeat: no-repeat;
 
 /* Lunch menu background */
 .menu-lunch {
-background-image: url('https://img.freepik.com/free-photo/lunch-box-school-materials_23-2147654488.jpg');
+background-image: url(https://img.freepik.com/free-photo/lunch-box-school-materials_23-2147654488.jpg);
 background-size: cover;
 background-position: center;
 background-repeat: no-repeat;
@@ -50,7 +50,7 @@ background-repeat: no-repeat;
 
 /* Dinner menu background */
 .menu-dinner {
-background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYX8SpQYdXcXO9DjBwAUkpL1rjfjOyxOl0TA&s');
+background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYX8SpQYdXcXO9DjBwAUkpL1rjfjOyxOl0TA&s);
 background-size: cover;
 background-position: center;
 background-repeat: no-repeat;
