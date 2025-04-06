@@ -50,7 +50,7 @@ background-repeat: no-repeat;
 
 /* Dinner menu background */
 .menu-dinner {
-background-image: url([https://via.placeholder.com/400x550?text=Dinner](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYX8SpQYdXcXO9DjBwAUkpL1rjfjOyxOl0TA&s));
+background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYX8SpQYdXcXO9DjBwAUkpL1rjfjOyxOl0TA&s);
 background-size: cover;
 background-position: center;
 background-repeat: no-repeat;
