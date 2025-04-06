@@ -42,7 +42,7 @@ background-repeat: no-repeat;
 
 /* Lunch menu background */
 .menu-lunch {
-background-image: url(https://via.placeholder.com/400x550?text=Lunch);
+background-image: url(https://img.freepik.com/free-photo/lunch-box-school-materials_23-2147654488.jpg);
 background-size: cover;
 background-position: center;
 background-repeat: no-repeat;
