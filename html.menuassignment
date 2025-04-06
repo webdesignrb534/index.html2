@@ -33,8 +33,7 @@ box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
 
 /* Breakfast menu background */
 .menu-breakfast {
-background-image: url(https://simply-delicious-food.com/wp-content/uploads/2022/09/Breakfast-board27.jpg)
-);
+background-image: url(https://simply-delicious-food.com/wp-content/uploads/2022/09/Breakfast-board27.jpg);
 background-size: cover;
 background-position: center;
 background-repeat: no-repeat;
