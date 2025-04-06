@@ -33,7 +33,7 @@ box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
 
 /* Breakfast menu background */
 .menu-breakfast {
-background-image: url(https://github.com/user-attachments/assets/910fcf29-a284-4d30-96a7-bf7bba9c494a)
+background-image: url(https://wallpapers.com/images/high/breakfast-food-pattern-q3blyhplekiin37i.webp)
 );
 background-size: cover;
 background-position: center;
