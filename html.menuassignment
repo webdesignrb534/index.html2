@@ -21,7 +21,7 @@ background-color: #ffffee;
 width: 400px;
 height: 550px;
 border-radius: 15px;
-color: black;
+color: white;
 padding: 20px;
 margin: 20px;
 display: flex;
